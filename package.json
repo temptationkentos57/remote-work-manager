@@ -1,0 +1,13 @@
+{
+  "name": "remote-work-manager",
+  "version": "1.0.0",
+  "description": "Ứng dụng quản lý công việc tự do tại Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {}
+}
