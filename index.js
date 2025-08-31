@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Remote Work Manager! Manage your tasks with ease and efficiency.');
+  res.send('Welcome to the Remote Work Manager! Here you can manage your tasks efficiently.');
 });
 
 app.get('/health', (req, res) => {
